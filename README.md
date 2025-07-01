@@ -1,4 +1,4 @@
-Gesture-Controlled Volume using Hand Tracking
+Gesture-Controlled Volume using Hand Tracking :
 
 Technologies Used
 Python — Core programming language
